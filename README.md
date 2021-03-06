@@ -1,7 +1,7 @@
 # Unsupervised Crop Row Detection
 
 The desiderata of a practical crop row detection method that works satisfactorily in real-life deployment are
-below: 
+below:  
 (1) it is capable of detecting crop rows even with high weed pressure   
 (2) it is applicable at different types of crop fields   
 (3) it is capable to detect crop rows at different crop growth stages  
