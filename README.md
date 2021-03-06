@@ -34,7 +34,7 @@ Performance of CAROLIF on real-time video captured from anagricultural vehicle.
 <img src="https://github.com/sudokhan112/CAROLIF/blob/main/CAROLIF/4.png" width ="600" height="400">
 
 
-[Link to Paper](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2020/84553/V07BT07A003/1099261)
+**[Link to Paper](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2020/84553/V07BT07A003/1099261)**
 
 **Citation**
 ```bash
